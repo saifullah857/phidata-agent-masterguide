@@ -4,10 +4,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Phidata%20AI%20Agents&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=From%20Zero%20to%20Production-Ready%20AI%20Systems&descAlignY=60&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://github.com/agentstack-ai/phidata-agent-masterguide">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=🤖+Build+AI+Agents+from+Scratch;🧠+Multi-Agent+Systems+%26+RAG;🚀+Deploy+to+Production+Fast;🛠️+Tools+%2B+Memory+%2B+Knowledge+Bases;⚡+Powered+by+Phidata+Framework" alt="Typing SVG" />
-</a>
-
+<div align="center">
+  <a href="https://github.com/agentstack-ai/phidata-agent-masterguide">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=%F0%9F%A4%96+Build+AI+Agents+from+Scratch;%F0%9F%A7%A0+Multi-Agent+Systems+%26+RAG;%F0%9F%9A%80+Deploy+to+Production+Fast;%F0%9F%9B%A0%EF%B8%8F+Tools+%2B+Memory+%2B+Knowledge+Bases;%E2%9A%A1+Powered+by+Phidata+Framework" alt="Typing SVG" />
+  </a>
+</div>
 <br/>
 
 <!-- Badges Row 1 -->
