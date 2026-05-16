@@ -1,0 +1,12 @@
+python-dotenv
+duckduckgo-search
+fastapi
+uvicorn
+streamlit
+pypdf
+lancedb
+sentence-transformers
+sqlalchemy
+pandas
+matplotlib
+yfinance
