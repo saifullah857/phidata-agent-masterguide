@@ -5,8 +5,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 agent = Agent(
-    model=Groq(id="llama-3.3-70b-versatile"),
+    model=Groq(id="openai/gpt-oss-20b"),
     markdown=True
 )
 
-agent.print_response("How to get AI /ML Internship")
+agent.print_response("give me emails of hr in lahore thats currently work on ai ml or hiring in ai ml for internships")
